@@ -30,7 +30,6 @@ A modern, interactive portfolio website built with React, TypeScript, and Vite. 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/shayann07/portfolio-mockup.git
 cd portfolio-mockup
 ```
 
@@ -167,13 +166,6 @@ Update section content by editing the respective component files in `src/section
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 👤 Author
-
-**Muhammad Shayan**
-- GitHub: [@shayxo](https://github.com/shayxo)
-- LinkedIn: [/in/muhammad-shayan](https://linkedin.com/in/muhammad-shayan)
-- Email: shayan@example.com
 
 ## 🙏 Acknowledgments
 
